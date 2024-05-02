@@ -1,0 +1,8 @@
+# Folders
+.vscode
+settings
+
+# Files
+*.class
+classpath
+project
