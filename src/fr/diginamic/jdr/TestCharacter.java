@@ -42,7 +42,7 @@ public class TestCharacter {
         while (player.getHealth() > 0) {
           Character enemy = null;
           int random = (int) Math.floor(Math.random() * (4 - 1) + 1);
-          
+
           System.out.println("");
           System.out.println("********************");
           System.out.println("INFORMATION AVANT COMBAT");
@@ -79,9 +79,23 @@ public class TestCharacter {
                   .println("Le monstre à reçu " + damage + " points de dommages. Il lui reste " + enemy.getHealth());
 
               if (enemy.getHealth() <= 0) {
-                System.out.println("Vous avez gagné ! Votre score augmente de 1");
-                System.out.println();
-                player.setScore(player.getScore() + 1);
+                switch (enemy.getClass().getSimpleName()) {
+                  case "Goblin":
+                    System.out.println("Vous avez gagné ! Votre score augmente de 2");
+                    System.out.println();
+                    player.setScore(player.getScore() + 2);
+                    break;
+                  case "Troll":
+                    System.out.println("Vous avez gagné ! Votre score augmente de 5");
+                    System.out.println();
+                    player.setScore(player.getScore() + 5);
+                    break;
+                  default:
+                    System.out.println("Vous avez gagné ! Votre score augmente de 1");
+                    System.out.println();
+                    player.setScore(player.getScore() + 1);
+                    break;
+                }
               }
             } else if (enemy_atk > player_atk) {
               int damage = enemy_atk - player_atk;
