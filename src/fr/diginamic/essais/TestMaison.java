@@ -13,7 +13,7 @@ import fr.diginamic.maison.WC;
 public class TestMaison {
   public static void main(String[] args) {
     Maison maison = new Maison(new Piece[] {});
-    maison.afficher();
+    maison.afficherTotal();
 
     Salon salon = new Salon(15, 0);
     Cuisine cuisine = new Cuisine(9, 0);
@@ -27,10 +27,13 @@ public class TestMaison {
     maison.ajouterPiece(chambre);
     maison.ajouterPiece(sdb);
     maison.ajouterPiece(wc2);
-    maison.afficher();
-    maison.AfficherSuperficieEtage(OptionalInt.of(0));
-    maison.AfficherSuperficieEtage(OptionalInt.of(1));
-    maison.AfficherSuperficieEtage(null);
-    maison.AfficherSuperficieEtage(OptionalInt.of(-1));
+    maison.afficherTotal();
+    maison.afficherSuperficieEtage(OptionalInt.of(0));
+    maison.afficherSuperficieEtage(OptionalInt.of(1));
+    maison.afficherSuperficieEtage(null);
+    maison.afficherSuperficieEtage(OptionalInt.of(-1));
+    maison.afficherPieces(Maison.TypePiece.CHAMBRE);
+    maison.afficherPieces(Maison.TypePiece.WC);
+    maison.afficherNbPieces(Maison.TypePiece.WC);
   }
 }
