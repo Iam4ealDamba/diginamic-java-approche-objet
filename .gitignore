@@ -4,5 +4,6 @@
 
 # Files
 *.class
+*.csv
 .classpath
 .project
