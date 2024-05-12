@@ -1,0 +1,2192 @@
+[
+  {
+    "nom": "Bourg-en-Bresse",
+    "codeDepart": "01",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 43454
+  },
+  {
+    "nom": "Laon",
+    "codeDepart": "02",
+    "region": "Hauts-de-France",
+    "total_population": 26031
+  },
+  {
+    "nom": "Saint-Quentin",
+    "codeDepart": "02",
+    "region": "Hauts-de-France",
+    "total_population": 55940
+  },
+  {
+    "nom": "Soissons",
+    "codeDepart": "02",
+    "region": "Hauts-de-France",
+    "total_population": 29417
+  },
+  {
+    "nom": "Montluçon",
+    "codeDepart": "03",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 37417
+  },
+  {
+    "nom": "Gap",
+    "codeDepart": "05",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 42567
+  },
+  {
+    "nom": "Antibes",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 74982
+  },
+  {
+    "nom": "Cagnes-sur-Mer",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 50385
+  },
+  {
+    "nom": "Cannes",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 75046
+  },
+  {
+    "nom": "Le Cannet",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 42056
+  },
+  {
+    "nom": "Grasse",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 51705
+  },
+  {
+    "nom": "Menton",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 28942
+  },
+  {
+    "nom": "Nice",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 345998
+  },
+  {
+    "nom": "Saint-Laurent-du-Var",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 28831
+  },
+  {
+    "nom": "Vallauris",
+    "codeDepart": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 26787
+  },
+  {
+    "nom": "Charleville-Mézières",
+    "codeDepart": "08",
+    "region": "Grand Est",
+    "total_population": 48420
+  },
+  {
+    "nom": "Troyes",
+    "codeDepart": "10",
+    "region": "Grand Est",
+    "total_population": 61988
+  },
+  {
+    "nom": "Carcassonne",
+    "codeDepart": "11",
+    "region": "Occitanie",
+    "total_population": 47418
+  },
+  {
+    "nom": "Narbonne",
+    "codeDepart": "11",
+    "region": "Occitanie",
+    "total_population": 55001
+  },
+  {
+    "nom": "Rodez",
+    "codeDepart": "12",
+    "region": "Occitanie",
+    "total_population": 25747
+  },
+  {
+    "nom": "Aix-en-Provence",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 146385
+  },
+  {
+    "nom": "Arles",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 53807
+  },
+  {
+    "nom": "Aubagne",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 45711
+  },
+  {
+    "nom": "La Ciotat",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 35758
+  },
+  {
+    "nom": "Istres",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 44248
+  },
+  {
+    "nom": "Marignane",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 33949
+  },
+  {
+    "nom": "Marseille",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 870018
+  },
+  {
+    "nom": "Martigues",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 49310
+  },
+  {
+    "nom": "Miramas",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 26217
+  },
+  {
+    "nom": "Salon-de-Provence",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 46225
+  },
+  {
+    "nom": "Vitrolles",
+    "codeDepart": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 34301
+  },
+  {
+    "nom": "Caen",
+    "codeDepart": "14",
+    "region": "Normandie",
+    "total_population": 108461
+  },
+  {
+    "nom": "Aurillac",
+    "codeDepart": "15",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 27659
+  },
+  {
+    "nom": "Angoulême",
+    "codeDepart": "16",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 44629
+  },
+  {
+    "nom": "La Rochelle",
+    "codeDepart": "17",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 78623
+  },
+  {
+    "nom": "Saintes",
+    "codeDepart": "17",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 26890
+  },
+  {
+    "nom": "Bourges",
+    "codeDepart": "18",
+    "region": "Centre-Val de Loire",
+    "total_population": 67841
+  },
+  {
+    "nom": "Vierzon",
+    "codeDepart": "18",
+    "region": "Centre-Val de Loire",
+    "total_population": 27036
+  },
+  {
+    "nom": "Brive-la-Gaillarde",
+    "codeDepart": "19",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 48333
+  },
+  {
+    "nom": "Ajaccio",
+    "codeDepart": "2A",
+    "region": "Corse",
+    "total_population": 70063
+  },
+  {
+    "nom": "Bastia",
+    "codeDepart": "2B",
+    "region": "Corse",
+    "total_population": 45596
+  },
+  {
+    "nom": "Dijon",
+    "codeDepart": "21",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 159031
+  },
+  {
+    "nom": "Saint-Brieuc",
+    "codeDepart": "22",
+    "region": "Bretagne",
+    "total_population": 47058
+  },
+  {
+    "nom": "Bergerac",
+    "codeDepart": "24",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 28166
+  },
+  {
+    "nom": "Périgueux",
+    "codeDepart": "24",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 31505
+  },
+  {
+    "nom": "Besançon",
+    "codeDepart": "25",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 120107
+  },
+  {
+    "nom": "Montbéliard",
+    "codeDepart": "25",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 26015
+  },
+  {
+    "nom": "Montélimar",
+    "codeDepart": "26",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 39924
+  },
+  {
+    "nom": "Romans-sur-Isère",
+    "codeDepart": "26",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 34095
+  },
+  {
+    "nom": "Valence",
+    "codeDepart": "26",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 64322
+  },
+  {
+    "nom": "Évreux",
+    "codeDepart": "27",
+    "region": "Normandie",
+    "total_population": 51560
+  },
+  {
+    "nom": "Chartres",
+    "codeDepart": "28",
+    "region": "Centre-Val de Loire",
+    "total_population": 40195
+  },
+  {
+    "nom": "Dreux",
+    "codeDepart": "28",
+    "region": "Centre-Val de Loire",
+    "total_population": 31575
+  },
+  {
+    "nom": "Brest",
+    "codeDepart": "29",
+    "region": "Bretagne",
+    "total_population": 142629
+  },
+  {
+    "nom": "Quimper",
+    "codeDepart": "29",
+    "region": "Bretagne",
+    "total_population": 66743
+  },
+  {
+    "nom": "Alès",
+    "codeDepart": "30",
+    "region": "Occitanie",
+    "total_population": 41129
+  },
+  {
+    "nom": "Nîmes",
+    "codeDepart": "30",
+    "region": "Occitanie",
+    "total_population": 154196
+  },
+  {
+    "nom": "Colomiers",
+    "codeDepart": "31",
+    "region": "Occitanie",
+    "total_population": 39200
+  },
+  {
+    "nom": "Muret",
+    "codeDepart": "31",
+    "region": "Occitanie",
+    "total_population": 25961
+  },
+  {
+    "nom": "Toulouse",
+    "codeDepart": "31",
+    "region": "Occitanie",
+    "total_population": 482738
+  },
+  {
+    "nom": "Tournefeuille",
+    "codeDepart": "31",
+    "region": "Occitanie",
+    "total_population": 27008
+  },
+  {
+    "nom": "Bègles",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 28092
+  },
+  {
+    "nom": "Bordeaux",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 256045
+  },
+  {
+    "nom": "Gradignan",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 26029
+  },
+  {
+    "nom": "Libourne",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 25491
+  },
+  {
+    "nom": "Mérignac",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 71203
+  },
+  {
+    "nom": "Pessac",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 62737
+  },
+  {
+    "nom": "Saint-Médard-en-Jalles",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 31576
+  },
+  {
+    "nom": "Talence",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 44040
+  },
+  {
+    "nom": "La Teste-de-Buch",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 26525
+  },
+  {
+    "nom": "Villenave-d'Ornon",
+    "codeDepart": "33",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 33091
+  },
+  {
+    "nom": "Agde",
+    "codeDepart": "34",
+    "region": "Occitanie",
+    "total_population": 28120
+  },
+  {
+    "nom": "Béziers",
+    "codeDepart": "34",
+    "region": "Occitanie",
+    "total_population": 77894
+  },
+  {
+    "nom": "Lunel",
+    "codeDepart": "34",
+    "region": "Occitanie",
+    "total_population": 26263
+  },
+  {
+    "nom": "Montpellier",
+    "codeDepart": "34",
+    "region": "Occitanie",
+    "total_population": 286098
+  },
+  {
+    "nom": "Sète",
+    "codeDepart": "34",
+    "region": "Occitanie",
+    "total_population": 44271
+  },
+  {
+    "nom": "Rennes",
+    "codeDepart": "35",
+    "region": "Bretagne",
+    "total_population": 222104
+  },
+  {
+    "nom": "Saint-Malo",
+    "codeDepart": "35",
+    "region": "Bretagne",
+    "total_population": 47528
+  },
+  {
+    "nom": "Châteauroux",
+    "codeDepart": "36",
+    "region": "Centre-Val de Loire",
+    "total_population": 45780
+  },
+  {
+    "nom": "Joué-lès-Tours",
+    "codeDepart": "37",
+    "region": "Centre-Val de Loire",
+    "total_population": 37974
+  },
+  {
+    "nom": "Tours",
+    "codeDepart": "37",
+    "region": "Centre-Val de Loire",
+    "total_population": 139963
+  },
+  {
+    "nom": "Bourgoin-Jallieu",
+    "codeDepart": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 28399
+  },
+  {
+    "nom": "Échirolles",
+    "codeDepart": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 36143
+  },
+  {
+    "nom": "Grenoble",
+    "codeDepart": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 160836
+  },
+  {
+    "nom": "Saint-Martin-d'Hères",
+    "codeDepart": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 38974
+  },
+  {
+    "nom": "Vienne",
+    "codeDepart": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 30178
+  },
+  {
+    "nom": "Mont-de-Marsan",
+    "codeDepart": "40",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 31517
+  },
+  {
+    "nom": "Blois",
+    "codeDepart": "41",
+    "region": "Centre-Val de Loire",
+    "total_population": 47524
+  },
+  {
+    "nom": "Roanne",
+    "codeDepart": "42",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 35913
+  },
+  {
+    "nom": "Saint-Chamond",
+    "codeDepart": "42",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 35969
+  },
+  {
+    "nom": "Saint-Étienne",
+    "codeDepart": "42",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 174298
+  },
+  {
+    "nom": "Nantes",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 314611
+  },
+  {
+    "nom": "Orvault",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 26618
+  },
+  {
+    "nom": "Rezé",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 41808
+  },
+  {
+    "nom": "Saint-Herblain",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 47502
+  },
+  {
+    "nom": "Saint-Nazaire",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 72295
+  },
+  {
+    "nom": "Saint-Sébastien-sur-Loire",
+    "codeDepart": "44",
+    "region": "Pays de la Loire",
+    "total_population": 27591
+  },
+  {
+    "nom": "Orléans",
+    "codeDepart": "45",
+    "region": "Centre-Val de Loire",
+    "total_population": 118102
+  },
+  {
+    "nom": "Agen",
+    "codeDepart": "47",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 34565
+  },
+  {
+    "nom": "Angers",
+    "codeDepart": "49",
+    "region": "Pays de la Loire",
+    "total_population": 155543
+  },
+  {
+    "nom": "Cholet",
+    "codeDepart": "49",
+    "region": "Pays de la Loire",
+    "total_population": 55772
+  },
+  {
+    "nom": "Saumur",
+    "codeDepart": "49",
+    "region": "Pays de la Loire",
+    "total_population": 28554
+  },
+  {
+    "nom": "Sèvremoine",
+    "codeDepart": "49",
+    "region": "Pays de la Loire",
+    "total_population": 26239
+  },
+  {
+    "nom": "Cherbourg-en-Cotentin",
+    "codeDepart": "50",
+    "region": "Normandie",
+    "total_population": 82578
+  },
+  {
+    "nom": "Châlons-en-Champagne",
+    "codeDepart": "51",
+    "region": "Grand Est",
+    "total_population": 46288
+  },
+  {
+    "nom": "Reims",
+    "codeDepart": "51",
+    "region": "Grand Est",
+    "total_population": 187074
+  },
+  {
+    "nom": "Saint-Dizier",
+    "codeDepart": "52",
+    "region": "Grand Est",
+    "total_population": 25666
+  },
+  {
+    "nom": "Laval",
+    "codeDepart": "53",
+    "region": "Pays de la Loire",
+    "total_population": 52359
+  },
+  {
+    "nom": "Nancy",
+    "codeDepart": "54",
+    "region": "Grand Est",
+    "total_population": 106953
+  },
+  {
+    "nom": "Vandœuvre-lès-Nancy",
+    "codeDepart": "54",
+    "region": "Grand Est",
+    "total_population": 30502
+  },
+  {
+    "nom": "Lorient",
+    "codeDepart": "56",
+    "region": "Bretagne",
+    "total_population": 58789
+  },
+  {
+    "nom": "Vannes",
+    "codeDepart": "56",
+    "region": "Bretagne",
+    "total_population": 55573
+  },
+  {
+    "nom": "Metz",
+    "codeDepart": "57",
+    "region": "Grand Est",
+    "total_population": 119856
+  },
+  {
+    "nom": "Thionville",
+    "codeDepart": "57",
+    "region": "Grand Est",
+    "total_population": 41396
+  },
+  {
+    "nom": "Nevers",
+    "codeDepart": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 34799
+  },
+  {
+    "nom": "Armentières",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 25373
+  },
+  {
+    "nom": "Cambrai",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 33349
+  },
+  {
+    "nom": "Douai",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 40860
+  },
+  {
+    "nom": "Dunkerque",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 89485
+  },
+  {
+    "nom": "Lambersart",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 28027
+  },
+  {
+    "nom": "Lille",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 236782
+  },
+  {
+    "nom": "Marcq-en-Barœul",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 39697
+  },
+  {
+    "nom": "Maubeuge",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 29995
+  },
+  {
+    "nom": "Roubaix",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 96953
+  },
+  {
+    "nom": "Tourcoing",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 98170
+  },
+  {
+    "nom": "Valenciennes",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 44509
+  },
+  {
+    "nom": "Villeneuve-d'Ascq",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 63085
+  },
+  {
+    "nom": "Wattrelos",
+    "codeDepart": "59",
+    "region": "Hauts-de-France",
+    "total_population": 41570
+  },
+  {
+    "nom": "Beauvais",
+    "codeDepart": "60",
+    "region": "Hauts-de-France",
+    "total_population": 57548
+  },
+  {
+    "nom": "Compiègne",
+    "codeDepart": "60",
+    "region": "Hauts-de-France",
+    "total_population": 41660
+  },
+  {
+    "nom": "Creil",
+    "codeDepart": "60",
+    "region": "Hauts-de-France",
+    "total_population": 36091
+  },
+  {
+    "nom": "Alençon",
+    "codeDepart": "61",
+    "region": "Normandie",
+    "total_population": 27221
+  },
+  {
+    "nom": "Arras",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 41973
+  },
+  {
+    "nom": "Béthune",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 25753
+  },
+  {
+    "nom": "Boulogne-sur-Mer",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 42293
+  },
+  {
+    "nom": "Calais",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 75719
+  },
+  {
+    "nom": "Hénin-Beaumont",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 26260
+  },
+  {
+    "nom": "Lens",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 31080
+  },
+  {
+    "nom": "Liévin",
+    "codeDepart": "62",
+    "region": "Hauts-de-France",
+    "total_population": 31337
+  },
+  {
+    "nom": "Clermont-Ferrand",
+    "codeDepart": "63",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 146112
+  },
+  {
+    "nom": "Anglet",
+    "codeDepart": "64",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 39995
+  },
+  {
+    "nom": "Bayonne",
+    "codeDepart": "64",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 51943
+  },
+  {
+    "nom": "Biarritz",
+    "codeDepart": "64",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 25518
+  },
+  {
+    "nom": "Pau",
+    "codeDepart": "64",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 79022
+  },
+  {
+    "nom": "Tarbes",
+    "codeDepart": "65",
+    "region": "Occitanie",
+    "total_population": 41862
+  },
+  {
+    "nom": "Perpignan",
+    "codeDepart": "66",
+    "region": "Occitanie",
+    "total_population": 123602
+  },
+  {
+    "nom": "Haguenau",
+    "codeDepart": "67",
+    "region": "Grand Est",
+    "total_population": 35024
+  },
+  {
+    "nom": "Illkirch-Graffenstaden",
+    "codeDepart": "67",
+    "region": "Grand Est",
+    "total_population": 27505
+  },
+  {
+    "nom": "Schiltigheim",
+    "codeDepart": "67",
+    "region": "Grand Est",
+    "total_population": 32024
+  },
+  {
+    "nom": "Strasbourg",
+    "codeDepart": "67",
+    "region": "Grand Est",
+    "total_population": 283515
+  },
+  {
+    "nom": "Colmar",
+    "codeDepart": "68",
+    "region": "Grand Est",
+    "total_population": 71445
+  },
+  {
+    "nom": "Mulhouse",
+    "codeDepart": "68",
+    "region": "Grand Est",
+    "total_population": 110468
+  },
+  {
+    "nom": "Bron",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 41589
+  },
+  {
+    "nom": "Caluire-et-Cuire",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 43546
+  },
+  {
+    "nom": "Décines-Charpieu",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 28249
+  },
+  {
+    "nom": "Lyon 1er Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 30423
+  },
+  {
+    "nom": "Lyon 2e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 30857
+  },
+  {
+    "nom": "Lyon 3e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 103506
+  },
+  {
+    "nom": "Lyon 4e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 36524
+  },
+  {
+    "nom": "Lyon 5e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 49998
+  },
+  {
+    "nom": "Lyon 6e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 52282
+  },
+  {
+    "nom": "Lyon 7e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 82651
+  },
+  {
+    "nom": "Lyon 8e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 85610
+  },
+  {
+    "nom": "Lyon 9e Arrondissement",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 51313
+  },
+  {
+    "nom": "Meyzieu",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 33351
+  },
+  {
+    "nom": "Oullins",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 26838
+  },
+  {
+    "nom": "Rillieux-la-Pape",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 30275
+  },
+  {
+    "nom": "Saint-Priest",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 46153
+  },
+  {
+    "nom": "Vaulx-en-Velin",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 48906
+  },
+  {
+    "nom": "Vénissieux",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 65822
+  },
+  {
+    "nom": "Villefranche-sur-Saône",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 37783
+  },
+  {
+    "nom": "Villeurbanne",
+    "codeDepart": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 150375
+  },
+  {
+    "nom": "Chalon-sur-Saône",
+    "codeDepart": "71",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 47085
+  },
+  {
+    "nom": "Mâcon",
+    "codeDepart": "71",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 34448
+  },
+  {
+    "nom": "Le Mans",
+    "codeDepart": "72",
+    "region": "Pays de la Loire",
+    "total_population": 146804
+  },
+  {
+    "nom": "Aix-les-Bains",
+    "codeDepart": "73",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 30377
+  },
+  {
+    "nom": "Chambéry",
+    "codeDepart": "73",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 60872
+  },
+  {
+    "nom": "Annecy",
+    "codeDepart": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 130257
+  },
+  {
+    "nom": "Annemasse",
+    "codeDepart": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 35461
+  },
+  {
+    "nom": "Thonon-les-Bains",
+    "codeDepart": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "total_population": 36296
+  },
+  {
+    "nom": "Paris",
+    "codeDepart": "75",
+    "region": "Île-de-France",
+    "total_population": 2210875
+  },
+  {
+    "nom": "Dieppe",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 30588
+  },
+  {
+    "nom": "Le Grand-Quevilly",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 26175
+  },
+  {
+    "nom": "Le Havre",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 172769
+  },
+  {
+    "nom": "Rouen",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 112596
+  },
+  {
+    "nom": "Saint-Étienne-du-Rouvray",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 29180
+  },
+  {
+    "nom": "Sotteville-lès-Rouen",
+    "codeDepart": "76",
+    "region": "Normandie",
+    "total_population": 29766
+  },
+  {
+    "nom": "Bussy-Saint-Georges",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 27299
+  },
+  {
+    "nom": "Chelles",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 54682
+  },
+  {
+    "nom": "Meaux",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 56249
+  },
+  {
+    "nom": "Melun",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 41183
+  },
+  {
+    "nom": "Pontault-Combault",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 38587
+  },
+  {
+    "nom": "Savigny-le-Temple",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 30352
+  },
+  {
+    "nom": "Villeparisis",
+    "codeDepart": "77",
+    "region": "Île-de-France",
+    "total_population": 26507
+  },
+  {
+    "nom": "Chatou",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 31653
+  },
+  {
+    "nom": "Le Chesnay",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 28558
+  },
+  {
+    "nom": "Conflans-Sainte-Honorine",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 36058
+  },
+  {
+    "nom": "Élancourt",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 25829
+  },
+  {
+    "nom": "Guyancourt",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 28839
+  },
+  {
+    "nom": "Houilles",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 32064
+  },
+  {
+    "nom": "Mantes-la-Jolie",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 44231
+  },
+  {
+    "nom": "Montigny-le-Bretonneux",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 33535
+  },
+  {
+    "nom": "Les Mureaux",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 32777
+  },
+  {
+    "nom": "Plaisir",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 32128
+  },
+  {
+    "nom": "Poissy",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 37524
+  },
+  {
+    "nom": "Rambouillet",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 26781
+  },
+  {
+    "nom": "Saint-Germain-en-Laye",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 41749
+  },
+  {
+    "nom": "Sartrouville",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 53237
+  },
+  {
+    "nom": "Trappes",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 32931
+  },
+  {
+    "nom": "Versailles",
+    "codeDepart": "78",
+    "region": "Île-de-France",
+    "total_population": 87315
+  },
+  {
+    "nom": "Niort",
+    "codeDepart": "79",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 61044
+  },
+  {
+    "nom": "Amiens",
+    "codeDepart": "80",
+    "region": "Hauts-de-France",
+    "total_population": 136998
+  },
+  {
+    "nom": "Albi",
+    "codeDepart": "81",
+    "region": "Occitanie",
+    "total_population": 51151
+  },
+  {
+    "nom": "Castres",
+    "codeDepart": "81",
+    "region": "Occitanie",
+    "total_population": 42923
+  },
+  {
+    "nom": "Montauban",
+    "codeDepart": "82",
+    "region": "Occitanie",
+    "total_population": 61978
+  },
+  {
+    "nom": "Draguignan",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 40928
+  },
+  {
+    "nom": "Fréjus",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 54023
+  },
+  {
+    "nom": "La Garde",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 25645
+  },
+  {
+    "nom": "Hyères",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 56799
+  },
+  {
+    "nom": "Saint-Raphaël",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 35826
+  },
+  {
+    "nom": "La Seyne-sur-Mer",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 65386
+  },
+  {
+    "nom": "Six-Fours-les-Plages",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 33904
+  },
+  {
+    "nom": "Toulon",
+    "codeDepart": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 171643
+  },
+  {
+    "nom": "Avignon",
+    "codeDepart": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 94200
+  },
+  {
+    "nom": "Carpentras",
+    "codeDepart": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 29498
+  },
+  {
+    "nom": "Cavaillon",
+    "codeDepart": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 26985
+  },
+  {
+    "nom": "Orange",
+    "codeDepart": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "total_population": 29856
+  },
+  {
+    "nom": "La Roche-sur-Yon",
+    "codeDepart": "85",
+    "region": "Pays de la Loire",
+    "total_population": 56991
+  },
+  {
+    "nom": "Châtellerault",
+    "codeDepart": "86",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 32887
+  },
+  {
+    "nom": "Poitiers",
+    "codeDepart": "86",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 90590
+  },
+  {
+    "nom": "Limoges",
+    "codeDepart": "87",
+    "region": "Nouvelle-Aquitaine",
+    "total_population": 135140
+  },
+  {
+    "nom": "Épinal",
+    "codeDepart": "88",
+    "region": "Grand Est",
+    "total_population": 33454
+  },
+  {
+    "nom": "Auxerre",
+    "codeDepart": "89",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 36804
+  },
+  {
+    "nom": "Sens",
+    "codeDepart": "89",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 26688
+  },
+  {
+    "nom": "Belfort",
+    "codeDepart": "90",
+    "region": "Bourgogne-Franche-Comté",
+    "total_population": 49926
+  },
+  {
+    "nom": "Athis-Mons",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 34065
+  },
+  {
+    "nom": "Brétigny-sur-Orge",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 26702
+  },
+  {
+    "nom": "Brunoy",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 26520
+  },
+  {
+    "nom": "Corbeil-Essonnes",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 51682
+  },
+  {
+    "nom": "Draveil",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 29558
+  },
+  {
+    "nom": "Évry",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 55425
+  },
+  {
+    "nom": "Grigny",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 29118
+  },
+  {
+    "nom": "Massy",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 50549
+  },
+  {
+    "nom": "Palaiseau",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 34954
+  },
+  {
+    "nom": "Ris-Orangis",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 29040
+  },
+  {
+    "nom": "Sainte-Geneviève-des-Bois",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 36219
+  },
+  {
+    "nom": "Savigny-sur-Orge",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 36677
+  },
+  {
+    "nom": "Les Ulis",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 25031
+  },
+  {
+    "nom": "Vigneux-sur-Seine",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 31488
+  },
+  {
+    "nom": "Viry-Châtillon",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 30962
+  },
+  {
+    "nom": "Yerres",
+    "codeDepart": "91",
+    "region": "Île-de-France",
+    "total_population": 29132
+  },
+  {
+    "nom": "Antony",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 62989
+  },
+  {
+    "nom": "Asnières-sur-Seine",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 86678
+  },
+  {
+    "nom": "Bagneux",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 39977
+  },
+  {
+    "nom": "Bois-Colombes",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 28607
+  },
+  {
+    "nom": "Boulogne-Billancourt",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 120943
+  },
+  {
+    "nom": "Châtenay-Malabry",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 33413
+  },
+  {
+    "nom": "Châtillon",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 37132
+  },
+  {
+    "nom": "Clamart",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 53099
+  },
+  {
+    "nom": "Clichy",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 60746
+  },
+  {
+    "nom": "Colombes",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 86050
+  },
+  {
+    "nom": "Courbevoie",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 82351
+  },
+  {
+    "nom": "La Garenne-Colombes",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 29503
+  },
+  {
+    "nom": "Gennevilliers",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 46939
+  },
+  {
+    "nom": "Issy-les-Moulineaux",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 69231
+  },
+  {
+    "nom": "Levallois-Perret",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 64028
+  },
+  {
+    "nom": "Malakoff",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 30286
+  },
+  {
+    "nom": "Meudon",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 46014
+  },
+  {
+    "nom": "Montrouge",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 49372
+  },
+  {
+    "nom": "Nanterre",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 96321
+  },
+  {
+    "nom": "Neuilly-sur-Seine",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 61501
+  },
+  {
+    "nom": "Le Plessis-Robinson",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 29192
+  },
+  {
+    "nom": "Puteaux",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 44941
+  },
+  {
+    "nom": "Rueil-Malmaison",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 79783
+  },
+  {
+    "nom": "Saint-Cloud",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 30797
+  },
+  {
+    "nom": "Suresnes",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 49145
+  },
+  {
+    "nom": "Vanves",
+    "codeDepart": "92",
+    "region": "Île-de-France",
+    "total_population": 28148
+  },
+  {
+    "nom": "Aubervilliers",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 86533
+  },
+  {
+    "nom": "Aulnay-sous-Bois",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 85214
+  },
+  {
+    "nom": "Bagnolet",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 36047
+  },
+  {
+    "nom": "Le Blanc-Mesnil",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 56346
+  },
+  {
+    "nom": "Bobigny",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 52633
+  },
+  {
+    "nom": "Bondy",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 53416
+  },
+  {
+    "nom": "Clichy-sous-Bois",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 29978
+  },
+  {
+    "nom": "La Courneuve",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 42712
+  },
+  {
+    "nom": "Drancy",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 70883
+  },
+  {
+    "nom": "Épinay-sur-Seine",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 55754
+  },
+  {
+    "nom": "Gagny",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 39391
+  },
+  {
+    "nom": "Livry-Gargan",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 44721
+  },
+  {
+    "nom": "Montfermeil",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 26262
+  },
+  {
+    "nom": "Montreuil",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 109235
+  },
+  {
+    "nom": "Neuilly-sur-Marne",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 34859
+  },
+  {
+    "nom": "Noisy-le-Grand",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 67086
+  },
+  {
+    "nom": "Noisy-le-Sec",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 43693
+  },
+  {
+    "nom": "Pantin",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 55585
+  },
+  {
+    "nom": "Pierrefitte-sur-Seine",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 29728
+  },
+  {
+    "nom": "Romainville",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 26640
+  },
+  {
+    "nom": "Rosny-sous-Bois",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 45663
+  },
+  {
+    "nom": "Saint-Denis",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 112309
+  },
+  {
+    "nom": "Saint-Ouen",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 49949
+  },
+  {
+    "nom": "Sevran",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 50888
+  },
+  {
+    "nom": "Stains",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 39776
+  },
+  {
+    "nom": "Tremblay-en-France",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 35866
+  },
+  {
+    "nom": "Villemomble",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 30227
+  },
+  {
+    "nom": "Villepinte",
+    "codeDepart": "93",
+    "region": "Île-de-France",
+    "total_population": 36809
+  },
+  {
+    "nom": "Alfortville",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 44136
+  },
+  {
+    "nom": "Cachan",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 30524
+  },
+  {
+    "nom": "Champigny-sur-Marne",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 77883
+  },
+  {
+    "nom": "Charenton-le-Pont",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 30793
+  },
+  {
+    "nom": "Choisy-le-Roi",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 44781
+  },
+  {
+    "nom": "Créteil",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 90052
+  },
+  {
+    "nom": "Fontenay-sous-Bois",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 53968
+  },
+  {
+    "nom": "Fresnes",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 27556
+  },
+  {
+    "nom": "L' Haÿ-les-Roses",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 31416
+  },
+  {
+    "nom": "Ivry-sur-Seine",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 61099
+  },
+  {
+    "nom": "Le Kremlin-Bicêtre",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 25422
+  },
+  {
+    "nom": "Limeil-Brévannes",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 26901
+  },
+  {
+    "nom": "Maisons-Alfort",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 55816
+  },
+  {
+    "nom": "Nogent-sur-Marne",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 32195
+  },
+  {
+    "nom": "Le Perreux-sur-Marne",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 34017
+  },
+  {
+    "nom": "Saint-Maur-des-Fossés",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 75833
+  },
+  {
+    "nom": "Sucy-en-Brie",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 26575
+  },
+  {
+    "nom": "Thiais",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 29295
+  },
+  {
+    "nom": "Villejuif",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 55805
+  },
+  {
+    "nom": "Villeneuve-Saint-Georges",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 33135
+  },
+  {
+    "nom": "Villiers-sur-Marne",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 29407
+  },
+  {
+    "nom": "Vincennes",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 50300
+  },
+  {
+    "nom": "Vitry-sur-Seine",
+    "codeDepart": "94",
+    "region": "Île-de-France",
+    "total_population": 93317
+  },
+  {
+    "nom": "Argenteuil",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 112064
+  },
+  {
+    "nom": "Bezons",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 29216
+  },
+  {
+    "nom": "Cergy",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 64451
+  },
+  {
+    "nom": "Eaubonne",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 25514
+  },
+  {
+    "nom": "Ermont",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 29400
+  },
+  {
+    "nom": "Franconville",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 36349
+  },
+  {
+    "nom": "Garges-lès-Gonesse",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 42821
+  },
+  {
+    "nom": "Gonesse",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 26556
+  },
+  {
+    "nom": "Goussainville",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 31167
+  },
+  {
+    "nom": "Herblay",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 29614
+  },
+  {
+    "nom": "Pontoise",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 31880
+  },
+  {
+    "nom": "Sannois",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 27118
+  },
+  {
+    "nom": "Sarcelles",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 58332
+  },
+  {
+    "nom": "Taverny",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 26541
+  },
+  {
+    "nom": "Villiers-le-Bel",
+    "codeDepart": "95",
+    "region": "Île-de-France",
+    "total_population": 27519
+  },
+  {
+    "nom": "Les Abymes",
+    "codeDepart": "971",
+    "region": "Guadeloupe",
+    "total_population": 54818
+  },
+  {
+    "nom": "Baie-Mahault",
+    "codeDepart": "971",
+    "region": "Guadeloupe",
+    "total_population": 31338
+  },
+  {
+    "nom": "Le Gosier",
+    "codeDepart": "971",
+    "region": "Guadeloupe",
+    "total_population": 27023
+  },
+  {
+    "nom": "Fort-de-France",
+    "codeDepart": "972",
+    "region": "Martinique",
+    "total_population": 82030
+  },
+  {
+    "nom": "Le Lamentin",
+    "codeDepart": "972",
+    "region": "Martinique",
+    "total_population": 40920
+  },
+  {
+    "nom": "Cayenne",
+    "codeDepart": "973",
+    "region": "Guyane",
+    "total_population": 60947
+  },
+  {
+    "nom": "Kourou",
+    "codeDepart": "973",
+    "region": "Guyane",
+    "total_population": 26726
+  },
+  {
+    "nom": "Matoury",
+    "codeDepart": "973",
+    "region": "Guyane",
+    "total_population": 32768
+  },
+  {
+    "nom": "Remire-Montjoly",
+    "codeDepart": "973",
+    "region": "Guyane",
+    "total_population": 26170
+  },
+  {
+    "nom": "Saint-Laurent-du-Maroni",
+    "codeDepart": "973",
+    "region": "Guyane",
+    "total_population": 44130
+  },
+  {
+    "nom": "Le Port",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 35141
+  },
+  {
+    "nom": "La Possession",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 33337
+  },
+  {
+    "nom": "Saint-André",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 56088
+  },
+  {
+    "nom": "Saint-Benoît",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 38466
+  },
+  {
+    "nom": "Saint-Denis",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 149337
+  },
+  {
+    "nom": "Saint-Joseph",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 38167
+  },
+  {
+    "nom": "Saint-Leu",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 34160
+  },
+  {
+    "nom": "Saint-Louis",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 53832
+  },
+  {
+    "nom": "Saint-Paul",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 106920
+  },
+  {
+    "nom": "Saint-Pierre",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 85059
+  },
+  {
+    "nom": "Sainte-Marie",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 33587
+  },
+  {
+    "nom": "Le Tampon",
+    "codeDepart": "974",
+    "region": "La Réunion",
+    "total_population": 78366
+  }
+]
