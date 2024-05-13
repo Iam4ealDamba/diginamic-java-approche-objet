@@ -1,8 +1,12 @@
 package fr.diginamic.models;
 
+import fr.diginamic.interfaces.CSV;
+
 public class Ville {
-  private String nom;
+  @CSV(enteteCollone = "nom ville", ordre = 2)
+  public String nom;
   private String codeDepart;
+  @CSV(enteteCollone = "region", ordre = 1)
   private String region;
   private String total_population;
 
