@@ -1,41 +1,76 @@
-### TP 15 – APPRENDRE A MANIPULER DES FICHIERS
+### TP N°12 – APPRENDRE A UTILISER MAP ET HASHMAP
 ---
-#### Objectifs du TP. Dans ce TP, nous allons apprendre à manipuler des fichiers.
+#### Objectifs du TP - Dans ce TP, nous allons apprendre à utiliser les Maps et HashMaps.
 Reprenez le projet approche-objet
-Exercice LireFichier
-•        Créez un package fichier.
-•        Téléchargez le fichier recensement.csv situé dans le répertoire TP.
-•        Créez une classe LectureFichier exécutable
-•        Dans la méthode main, lisez le contenu du fichier et affichez son contenu.
-Exercice CreerFichier
-•        Créez une classe CreerFichier exécutable
-•        Dans ce fichier extraire les 100 premières lignes du fichier recensement.
-•        Générez un fichier contenant ces 100 premières lignes
-Exercice LireFichierAvecInstanciation
-•        Pour cet exercice, vous pouvez repartir de la classe LectureFichier précédente, qui va être complétée dans cet exercice.
-•        Tout d’abord, créez une classe Ville avec les attributs suivants : 
-o       Nom
-o       Code département
-o       Nom de la région
-o       Population totale
-•        Dans la classe LectureFichier en début de méthode main, créez une ArrayList de Ville vide
-•        Lire le contenu du fichier recensement.csv et, pour chaque ligne de ce fichier, créez une instance de classe Ville que vous allez stocker dans une ArrayList
-o Pour ce faire vous allez être obligé d’extraire de l’information de la ligne. Vous pouvez utiliser la méthode split qui permet de découper une ligne en tableau de chaine de caractères sur la base d’un séparateur
-String[] tokens = ligne.split(";");2
-Exercice GenererFichier
-•        Pour cet exercice, vous pouvez repartir de la classe LectureFichier précédente.
-•        Vous avez précédemment constitué une ArrayList de Ville contenant la totalité des 36000 villes du fichier
-•        Générez maintenant un fichier de sortie ne contenant que les villes de plus de 25 000 habitants.
-o       Attention, seules les informations utiles sont stockées dans le fichier final :
-▪        Nom
-▪        Code département
-▪        Nom de la région
-▪        Population totale
-o       La première ligne doit être similaire à celle du fichier d’origine. Elle fournit les entêtes de colonnes.
-•        Ouvrez le fichier résultant afin d’en vérifier le contenu
-Quelques rappels sur les manipulations de chaine de caractères
-1)   Pour découper une chaine de caractères
-String maChaine = "Valeur 1; valeur 2; valeur3"; String[] tokens = maChaine.split(";");
-2)   Pour retirer des caractères blancs
-maValeur = maValeur.trim().replaceAll(" ", "");
+Créez un nouveau package appelé maps et qui contiendra l’ensemble du code de ce TP.
+Exercice 1
+Voici une liste d’employés avec leur salaire respectifs :
+•        Paul – 1750 €
+•        Hicham – 1825 €
+•        Yu – 2250 €
+•        Ingrid – 2015 €
+•        Chantal – 2418 €
+Tâches à réaliser :
+•        Creez une classe exécutable appelée CreationMap :
+o       Créez une map nommée mapSalaires et qui permet de stocker les informations de salaire (valeur) en fonction du prénom de la personne (clé).
+o       Une fois la map créée, affichez sa taille
+Exercice 2
+•        Soit la classe exécutable suivante :
+o       Dans cette classe, la map nommée mapVilles contient les noms des préféctures stockés par numéro de département.
+public class CreationEtManipulationMap {
+public static void main(String args[]) {
+HashMap<Integer, String> mapVilles = new HashMap<>(); mapVilles.put(13, "Marseille");
+mapVilles.put(34, "Montpellier"); mapVilles.put(44, "Nantes");
+mapVilles.put(75, "Paris");
+mapVilles.put(31, "Toulouse");
+//TODO Développements à réaliser ci-dessous }
+}2
+Tâches à réaliser :
+•        Ajouter dans mapVilles les informations pour Lille, Lyon et Bordeaux
+•        Mettre en place une boucle pour afficher l'ensemble des clés contenues dans la map
+•        Mettre en place une boucle pour afficher l'ensemble des valeurs contenues dans la map
+•        Afficher la taille de la map
+Exercice 3
+•        Soit la classe exécutable suivante :
+o       Dans cette classe, on a constitué 2 maps différentes, nommées map1 et map2 o       Ces maps contiennent des couleurs stockées en fonction d’un index
+public class FusionMap {
+public static void main(String args[]) {
+// Création map1
+HashMap<Integer, String> map1 = new HashMap<Integer, String>();
+map1.put(1, "Rouge");
+map1.put(2, "Vert");
+map1.put(3, "Orange");
+// Création map2
+HashMap<Integer, String> map2 = new HashMap<Integer, String>();
+map2.put(4, "Blanc");
+map2.put(5, "Bleu");
+map2.put(6, "Orange");
+//TODO Développements à réaliser ci-dessous
+}
+}
+Tâches à réaliser :
+•        Créer une map appelée map3 et qui contient l’ensemble des données des 2 maps précédentes avec les mêmes clés et les mêmes valeurs
+Exercice 4
+•        Creez une classe exécutable MapVilles
+•        Dans ce TP nous allons retravailler avec la classe Ville et les informations des TPs précédent.
+•        Dans cette classe, créez une map permettant de stocker les instances de villes (valeur) en fonction de leur nom (clé).
+•        Recherchez et supprimez la ville qui a le moins d’habitants
+•        Affichez l’ensemble des villes restantes.3
+Exercice 5
+•        Créez une classe exécutable ComptagePaysParContinent
+•        Créez une classe Pays avec 3 attributs
+o       Le nom
+o       Le nombre d’habitants
+o       Le continent
+•        Créez une ArrayList de Pays contenant les pays suivants :
+o       France, 65 millions d’habitants, Europe
+o       Allemagne, 80 millions d’habitants, Europe
+o       Belgique, 10 millions d’habitants, Europe
+o       Russie, 150 millions d’habitants, Asie
+o       Chine, 1.4 milliards d’habitants, Asie
+o       Indonésie, 220 millions d’habitants, Océanie,
+o       Australie, 20 millions d’habitants, Océanie
+•        Utilisez une HashMap pour réaliser un comptage du nombre de pays par continent. o       Astuce : l’idée est de créer une HashMap avec :
+▪        en clé une String qui va permettre de stocker le nom du continent et 
+▪        en valeur un Integer qui va permettre de compter les pays.
 Commitez vos développements sur GitHub
