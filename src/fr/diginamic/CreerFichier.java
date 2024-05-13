@@ -1,4 +1,4 @@
-package fr.diginamic.fichier;
+package fr.diginamic;
 
 import java.io.BufferedWriter;
 import java.io.File;

@@ -1,6 +1,6 @@
 package fr.diginamic.models;
 
-public class Ville {
+public class Ville implements Comparable<Ville> {
   private String nom;
   private String codeDepart;
   private String region;
@@ -50,6 +50,27 @@ public class Ville {
 
   public String getTotal_population() {
     return total_population;
+  }
+
+  @Override
+  public int compareTo(Ville v) {
+    if (this.nom.compareTo(v.getNom()) > 0) {
+      return 1;
+    } else if (this.nom.compareTo(v.getNom()) < 0) {
+      return -1;
+    } else {
+      return 0;
+    }
+  }
+
+  public int compareTo(String o) {
+    if (Integer.parseInt(this.total_population) - Integer.parseInt(o) > 0) {
+      return 1;
+    } else if (Integer.parseInt(this.total_population) - Integer.parseInt(o)  < 0) {
+      return -1;
+    } else {
+      return 0;
+    }
   }
 
 }
