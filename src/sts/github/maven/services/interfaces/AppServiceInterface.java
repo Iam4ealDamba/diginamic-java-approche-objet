@@ -2,6 +2,7 @@ package sts.github.maven.services.interfaces;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Optional;
 
 import sts.github.maven.models.Product;
 
@@ -12,7 +13,7 @@ public interface AppServiceInterface {
    * @param products - liste des produits
    * @return HashMap contenant les categories et le nombre de produits
    */
-  public HashMap<String, Integer> countByCategory(ArrayList<Product> products);
+  public Optional<HashMap<String, Integer>> countByCategory(ArrayList<Product> products);
 
   /**
    * Compte le nombre de produit par marques
@@ -20,6 +21,6 @@ public interface AppServiceInterface {
    * @param products - liste des produits
    * @return HashMap contenant les marques et le nombre de produits
    */
-  public HashMap<String, Integer> countByBrand(ArrayList<Product> products);
+  public Optional<HashMap<String, Integer>> countByBrand(ArrayList<Product> products);
 
 }
