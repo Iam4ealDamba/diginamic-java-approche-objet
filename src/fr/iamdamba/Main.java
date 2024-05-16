@@ -1,13 +1,23 @@
 package fr.iamdamba;
 
-import fr.iamdamba.models.ConwayMatrix;
+import javax.swing.*;
+
+import fr.iamdamba.models.Game;
 
 public class Main {
   public static void main(String[] args) {
-    int cols = 20;
-    int rows = 20;
+    int boardWidth = 600;
+    int boardHeight = boardWidth;
 
-    ConwayMatrix map = new ConwayMatrix(cols, rows);
-    map.update();
+    Game game = new Game(boardWidth, boardHeight);
+    JFrame frame = new JFrame("Conway's Game of Life");
+    frame.add(game);
+
+    frame.setVisible(true);
+    frame.setSize(boardWidth, boardHeight);
+    frame.setLocationRelativeTo(null);
+    frame.setResizable(false);
+    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    frame.pack();
   }
 }
